@@ -1,0 +1,87 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "ari",
+      "password": "satu"
+    },
+    {
+      "username": "aris",
+      "email": "fe@g",
+      "password": "123",
+      "id": 2
+    }
+  ],
+  "products": [
+    {
+      "name": "Kaos Oblong",
+      "desc": "Handsomeness +5 but decrease intelligent -5",
+      "price": 35000,
+      "src": "https://www.jakartanotebook.com/images/products/99/63/19075/2/kaos-polos-katun-pria-o-neck-size-m-81402b-or-t-shirt-black-24.jpg",
+      "id": 1
+    },
+    {
+      "name": "Armor Plate",
+      "desc": "intelligent +2",
+      "price": 45000,
+      "src": "https://previews.123rf.com/images/vitaliygaydukov/vitaliygaydukov1706/vitaliygaydukov170600003/79762372-medieval-armor-on-the-body-in-the-style-of-a-lion-with-large-shoulder-pads-on-an-isolated-white-back.jpg",
+      "id": 2
+    },
+    {
+      "name": "Jaket Second",
+      "desc": "Handsomeness +0.01",
+      "price": 150000,
+      "src": "https://www.jakartanotebook.com/images/products/99/63/34563/53/jaket-hoodie-sweatshirt-long-sleeve-size-m-light-gray-1.jpg",
+      "id": 3
+    },
+    {
+      "name": "Heavy Armor",
+      "desc": "Armor +10 but speed decrease -5",
+      "price": "75000",
+      "src": "http://www.medievalcollectibles.com/images/Product/large/RT-151.png",
+      "id": 4
+    },
+    {
+      "name": "Baju spandex",
+      "desc": "Stamina + 7",
+      "price": "45000",
+      "src": "https://www.jakartanotebook.com/images/products/99/63/32648/250/baju-olahraga-pria-mma-compression-shirt-long-sleeve-size-xl-black-or-black-3.jpg",
+      "id": 5
+    },
+    {
+      "name": "Baju Partai",
+      "desc": "Bravery + 9",
+      "price": "210000",
+      "src": "http://www.expresskonveksi.com/image-product/img8-1303107013.jpg",
+      "id": 6
+    }
+  ],
+  "carts": [
+    {
+      "username": "",
+      "quantity": 1,
+      "productId": 1,
+      "item": {
+        "name": "Kaos Oblong",
+        "desc": "Handsomeness +5 but decrease intelligent -5",
+        "price": 35000,
+        "src": "https://www.jakartanotebook.com/images/products/99/63/19075/2/kaos-polos-katun-pria-o-neck-size-m-81402b-or-t-shirt-black-24.jpg",
+        "id": 1
+      },
+      "id": 1
+    },
+    {
+      "username": "ari",
+      "quantity": 1,
+      "productId": 2,
+      "item": {
+        "name": "Armor Plate",
+        "desc": "intelligent +2",
+        "price": 45000,
+        "src": "https://previews.123rf.com/images/vitaliygaydukov/vitaliygaydukov1706/vitaliygaydukov170600003/79762372-medieval-armor-on-the-body-in-the-style-of-a-lion-with-large-shoulder-pads-on-an-isolated-white-back.jpg",
+        "id": 2
+      },
+      "id": 2
+    }
+  ]
+}

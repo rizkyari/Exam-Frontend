@@ -1,0 +1,12 @@
+table img.list {
+    width: 30px !important
+}
+
+div.card-body img.detail {
+    width: 40px !important
+}
+
+.navbar {
+    border-bottom: #008ed6 3px solid;
+    opacity: 1;
+  }
